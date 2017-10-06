@@ -1,0 +1,18 @@
+{
+    "Products": [
+        {
+            "name": "iPhone",
+            "company": "apple"
+        },
+
+         {
+            "name": "Htc mobile",
+            "company": "HTC"
+        },
+         {
+            "name": "google nexus",
+            "company": "Google"
+        }
+		
+    ]
+}
